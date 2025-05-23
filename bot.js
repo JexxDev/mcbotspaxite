@@ -3,7 +3,7 @@ const mineflayer = require('mineflayer');
 const bot = mineflayer.createBot({
   host: 'Spaxite.aternos.me',
   port: 41511,
-  username: 'MonBotRailway'
+  username: 'FredBoat'
 });
 
 bot.on('spawn', () => {
